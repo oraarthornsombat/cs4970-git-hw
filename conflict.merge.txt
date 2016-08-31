@@ -1,0 +1,16 @@
+<html>
+<head>
+	<style>
+		body {
+		color: #800080
+		}
+	</style>
+</head>
+<body>
+<<<<<<< HEAD
+<br/>Hello world!!! :)<br/>
+=======
+<br/>Hello World!!!<br/>
+>>>>>>> complicated_merge
+</body>
+</html>
